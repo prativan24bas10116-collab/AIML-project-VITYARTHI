@@ -2,7 +2,7 @@
 
 **Course:** CSA2001 – Fundamentals of AI and ML
 **Student:** Prativan Mishra
-**Registration Number: 24BAS**
+**Registration Number: 24BAS10116**
 
 ```
 Abstract
